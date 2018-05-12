@@ -1,0 +1,31 @@
+_repo: Alexander-Hamilton_40591
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40591-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conant, Charles A. (Charles Arthur)
+    alias: Conant, Charles Arthur
+    birthdate: 1861
+    deathdate: 1915
+    gutenberg_agent_id: '40715'
+    url: http://www.gutenberg.org/2009/agents/40715
+description: ''
+gutenberg_issued: '2012-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40591'
+  lccn: 01025409
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Riverside Biographical Series, number 10
+subjects:
+- !lcsh 'United States -- Politics and government -- 1783-1809'
+- !lcc 'E300'
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcsh 'Hamilton, Alexander, 1757-1804'
+title: Alexander Hamilton
+url: http://www.gutenberg.org/ebooks/40591
